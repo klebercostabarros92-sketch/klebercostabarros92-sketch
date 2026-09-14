@@ -1,16 +1,134 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Kléber 👋</h1>
 
-<!--
-**klebercostabarros92-sketch/klebercostabarros92-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📊 Analista Operacional Sênior | 🚚 Logística & Transportes | ⚙️ Automação de Processos</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Transformo gargalos operacionais do dia a dia em automações, painéis e integrações — unindo profundidade de processo logístico/fiscal à capacidade de programar as soluções que a operação precisa.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=klebercostabarros92-sketch&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" />
+</p>
+
+---
+
+### 🧭 Sobre mim
+
+- 🔭 Atualmente atuo na **THX Group (THX Logtech)**, na operação **Café 3C GRU** (Guarulhos/SP)
+- 🛠️ Construo, sozinho, as automações que a minha própria operação logística precisa: fiscal, frete, frota e CIOT
+- 📊 Gosto de transformar processo manual em dashboard, robô ou integração
+- 🌱 Explorando arquiteturas mais robustas: microsserviços, filas assíncronas, dados geoespaciais e IA aplicada
+- ⚡ Metodologias que aplico no dia a dia: Lean Logistics, Teoria das Restrições (TOC), Poka-Yoke, Gestão Visual (Andon)
+
+---
+
+### 🛠️ Stack & Tecnologias
+
+**Linguagens & Scripts**
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+</p>
+
+**Backend & Automação**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
+
+**Dados & Integrações**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+</p>
+
+**Infra & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+**IA aplicada**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/klebercostabarros92-sketch/Resgateai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebercostabarros92-sketch&repo=Resgateai&theme=dark" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/klebercostabarros92-sketch/Programa-o-e-aferi-o-de-disponibilidade-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebercostabarros92-sketch&repo=Programa-o-e-aferi-o-de-disponibilidade-&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/klebercostabarros92-sketch/Gerenciamento-e-controle-de-fluxo-paletes-PBR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebercostabarros92-sketch&repo=Gerenciamento-e-controle-de-fluxo-paletes-PBR&theme=dark" />
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+- 🚨 **Resgate AI** — plataforma SaaS multi-tenant de despacho inteligente para frotas de guincho, com telemetria em tempo real (WebSockets), roteirização geoespacial (PostGIS) e triagem por IA
+- 🚚 **Sistema de Programação, Disponibilidade & Automação Logística (THX Group)** — hub que integra roteirização, frota, WhatsApp e emissão autônoma de CIOT (NestJS + Selenium) no SSW
+- ☕ **Gestão de Fluxo de Vale-Paletes PBR** — painel de conciliação documental e passivo financeiro entre THX e 3 Corações
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=klebercostabarros92-sketch&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebercostabarros92-sketch&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:kleber.costabarros92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>

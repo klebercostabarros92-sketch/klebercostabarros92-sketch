@@ -84,43 +84,34 @@
 
 ### 🚀 Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/klebercostabarros92-sketch/Resgateai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebercostabarros92-sketch&repo=Resgateai&theme=dark" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/klebercostabarros92-sketch/Programa-o-e-aferi-o-de-disponibilidade-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebercostabarros92-sketch&repo=Programa-o-e-aferi-o-de-disponibilidade-&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/klebercostabarros92-sketch/Gerenciamento-e-controle-de-fluxo-paletes-PBR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=klebercostabarros92-sketch&repo=Gerenciamento-e-controle-de-fluxo-paletes-PBR&theme=dark" />
-      </a>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+**🚨 [Resgate AI](https://github.com/klebercostabarros92-sketch/Resgateai)**
+Plataforma SaaS multi-tenant de despacho inteligente para frotas de guincho, com telemetria em tempo real (WebSockets), roteirização geoespacial (PostGIS) e triagem por IA.
+<br>
+<img src="https://img.shields.io/github/languages/top/klebercostabarros92-sketch/Resgateai?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/klebercostabarros92-sketch/Resgateai?style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/klebercostabarros92-sketch/Resgateai?style=flat-square" />
 
-- 🚨 **Resgate AI** — plataforma SaaS multi-tenant de despacho inteligente para frotas de guincho, com telemetria em tempo real (WebSockets), roteirização geoespacial (PostGIS) e triagem por IA
-- 🚚 **Sistema de Programação, Disponibilidade & Automação Logística (THX Group)** — hub que integra roteirização, frota, WhatsApp e emissão autônoma de CIOT (NestJS + Selenium) no SSW
-- ☕ **Gestão de Fluxo de Vale-Paletes PBR** — painel de conciliação documental e passivo financeiro entre THX e 3 Corações
+**🚚 [Sistema de Programação, Disponibilidade & Automação Logística (THX Group)](https://github.com/klebercostabarros92-sketch/Programa-o-e-aferi-o-de-disponibilidade-)**
+Hub que integra roteirização, frota, WhatsApp e emissão autônoma de CIOT (NestJS + Selenium) no SSW.
+<br>
+<img src="https://img.shields.io/github/languages/top/klebercostabarros92-sketch/Programa-o-e-aferi-o-de-disponibilidade-?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/klebercostabarros92-sketch/Programa-o-e-aferi-o-de-disponibilidade-?style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/klebercostabarros92-sketch/Programa-o-e-aferi-o-de-disponibilidade-?style=flat-square" />
+
+**☕ [Gestão de Fluxo de Vale-Paletes PBR](https://github.com/klebercostabarros92-sketch/Gerenciamento-e-controle-de-fluxo-paletes-PBR)**
+Painel de conciliação documental e passivo financeiro entre THX e 3 Corações.
+<br>
+<img src="https://img.shields.io/github/languages/top/klebercostabarros92-sketch/Gerenciamento-e-controle-de-fluxo-paletes-PBR?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/klebercostabarros92-sketch/Gerenciamento-e-controle-de-fluxo-paletes-PBR?style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/klebercostabarros92-sketch/Gerenciamento-e-controle-de-fluxo-paletes-PBR?style=flat-square" />
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klebercostabarros92-sketch&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebercostabarros92-sketch&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://img.shields.io/github/followers/klebercostabarros92-sketch?style=for-the-badge&label=Seguidores&color=0e75b6" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Reposit%C3%B3rios%20p%C3%BAblicos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fklebercostabarros92-sketch&color=0e75b6" />
 </p>
 
 ---

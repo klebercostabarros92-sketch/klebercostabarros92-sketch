@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Kléber 👋</h1>
 
-<h3 align="center">📊 Analista Operacional Sênior | 🚚 Logística & Transportes | ⚙️ Automação de Processos</h3>
+<h3 align="center">📊 Coordenador de Operações logísticas | 🚚 Logística & Transportes | ⚙️ Automação de Processos</h3>
 
 <p align="center">
   Transformo gargalos operacionais do dia a dia em automações, painéis e integrações — unindo profundidade de processo logístico/fiscal à capacidade de programar as soluções que a operação precisa.
@@ -14,7 +14,7 @@
 
 ### 🧭 Sobre mim
 
-- 🔭 Atualmente atuo na **THX Group (THX Logtech)**, na operação **Café 3C GRU** (Guarulhos/SP)
+- 🔭 Atualmente atuo na **PROLOG TRANSPORTES E LOGISTICA**, na operação **Café 3C GRU** (Guarulhos/SP)
 - 🛠️ Construo, sozinho, as automações que a minha própria operação logística precisa: fiscal, frete, frota e CIOT
 - 📊 Gosto de transformar processo manual em dashboard, robô ou integração
 - 🌱 Explorando arquiteturas mais robustas: microsserviços, filas assíncronas, dados geoespaciais e IA aplicada
